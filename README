@@ -1,5 +1,7 @@
 note saver project 
    completed with Bootstrap 3.4
+   
+after calim open the index.html in liveserver
 
 -- Especial Options --
    1. Save/Don't save items in browser local storage.
